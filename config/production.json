@@ -1,0 +1,16 @@
+{
+	"mysql":{
+		"host": "0.0.0.0",
+		"username": "root",
+		"password": "mar********",
+		"database": "mobil****"
+	},
+
+	"odbc":{
+		"driver": "{TDS}",
+		"dsn": "SQLServer",
+		"Uid": "sa",
+		"Pass": "A******",
+		"Database": "Re****s"
+	}
+}
